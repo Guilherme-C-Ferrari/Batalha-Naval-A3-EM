@@ -5,5 +5,5 @@ uvicorn[standard]
 # requirements do front
  nextjs
  react
- tailwind css
+
 
